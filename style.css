@@ -624,12 +624,12 @@ a {
     text-align: center;
     color: #807d74;
 }
-.header__nav-list strong {
+.header__nav-list,
+strong {
     font-style: normal;
     font-weight: 600;
     font-size: 1.4rem;
     line-height: 26px;
     /* identical to box height, or 186% */
-
     color: #ffffff;
 }
